@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Thinhinane Akriche
+# 👋 Hi, I'm Thinhinane
 
 ### Data Scientist · AI Engineer · Big Data Enthusiast
 
