@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Thinhinane
 
-### Data|AI Engineer 
+### Data & AI Engineer 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ton-profil-linkedin](https://www.linkedin.com/in/thinhinane-akriche-812717337/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akrichetina@gmail.com)
